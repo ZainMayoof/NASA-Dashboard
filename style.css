@@ -1,1 +1,29 @@
+/* Base Styles */
+body {
+    /* padding and margins */
+}
 
+/* Typography */
+h1, h2, h3, p {
+    /*  font styles and sizes */
+}
+
+/* Links */
+a {
+    /*  link colors and hover effects */
+}
+
+/* Layout */
+.container {
+    /* Define width and margins for layout */
+}
+
+/* Flexbox/Grid */
+.flex-container {
+    /* Set display to flex and alignment properties */
+}
+
+/* Buttons */
+.button {
+    /* Style buttons with padding, background, and borders */
+}
