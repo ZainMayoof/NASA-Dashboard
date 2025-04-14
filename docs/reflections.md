@@ -1,0 +1,2 @@
+#Mazens Reflection
+> Github can be extremely helpful in syncing code with your project teammates. I learned that it is much less scary than it seems. Yes it is like starting marvel universe timelines and one mistake can usually ruin everything, but thankfully we learned how to backtrack things so that is no longer a major problem. The challenging part was figuring out how to navigate pull requests.
